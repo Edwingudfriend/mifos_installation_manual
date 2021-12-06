@@ -1,0 +1,1 @@
+# mifos_installation_manual
